@@ -4,8 +4,8 @@ Website used in project for English 2.
 <br>
 
 Goals
-  - *insert goal here*
-  - *insert goal here*
-  - *insert goal here*
+  - *Identify causes of deforestation*
+  - *Show current and past effects of deforestation*
+  - *Explain why today's people need to help fix this issue*
 
 http://project.zimbri.cc
